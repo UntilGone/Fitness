@@ -5,4 +5,4 @@
 ## 计划
 1. [Push Day](./Plans/Push-Day.md)
 2. [Pull Day](./Plans/Pull-Day.md)
-3. [Leg Day](./Plans/Leg-day.md)
+3. [Leg Day](./Plans/Leg-Day.md)
