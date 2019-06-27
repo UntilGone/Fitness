@@ -6,3 +6,8 @@
 1. [Push Day](./Plans/Push-Day.md)
 2. [Pull Day](./Plans/Pull-Day.md)
 3. [Leg Day](./Plans/Leg-Day.md)
+
+
+## MMP
+卧槽，现我写了上面3个计划后从来没执行过，啊哈哈哈哈哈。有毒。  
+现在有个很大的问题，就是肩部不平衡，活动的、肌耐力都不一样，有点难受。——2019年6月27日
